@@ -1,0 +1,9 @@
+c:\users\oleh\documents\visual studio 2017\Projects\lab2_micrservices\lab2_micrservices\bin\Debug\netcoreapp1.0\lab2_micrservices.deps.json
+c:\users\oleh\documents\visual studio 2017\Projects\lab2_micrservices\lab2_micrservices\bin\Debug\netcoreapp1.0\lab2_micrservices.runtimeconfig.json
+c:\users\oleh\documents\visual studio 2017\Projects\lab2_micrservices\lab2_micrservices\bin\Debug\netcoreapp1.0\lab2_micrservices.runtimeconfig.dev.json
+c:\users\oleh\documents\visual studio 2017\Projects\lab2_micrservices\lab2_micrservices\bin\Debug\netcoreapp1.0\lab2_micrservices.dll
+c:\users\oleh\documents\visual studio 2017\Projects\lab2_micrservices\lab2_micrservices\obj\Debug\netcoreapp1.0\lab2_micrservices.csprojResolveAssemblyReference.cache
+c:\users\oleh\documents\visual studio 2017\Projects\lab2_micrservices\lab2_micrservices\obj\Debug\netcoreapp1.0\lab2_micrservices.AssemblyInfo.cs
+c:\users\oleh\documents\visual studio 2017\Projects\lab2_micrservices\lab2_micrservices\bin\Debug\netcoreapp1.0\lab2_micrservices.pdb
+c:\users\oleh\documents\visual studio 2017\Projects\lab2_micrservices\lab2_micrservices\obj\Debug\netcoreapp1.0\lab2_micrservices.dll
+c:\users\oleh\documents\visual studio 2017\Projects\lab2_micrservices\lab2_micrservices\obj\Debug\netcoreapp1.0\lab2_micrservices.pdb
